@@ -1,0 +1,10 @@
+body {
+    font-family: serif;
+    background-color: purple;
+}
+#main-title {
+    text-align: center;
+}
+.content {
+    margin-bottom: 12px;
+}
